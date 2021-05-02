@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="60" viewBox="0 0 60 60">
+  <defs>
+    <linearGradient id="linear-gradient" x2="1.01" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffc500"/>
+      <stop offset="1" stop-color="#f96d72"/>
+    </linearGradient>
+  </defs>
+  <g id="Сгруппировать_11121" data-name="Сгруппировать 11121" transform="translate(-1620 -4707)">
+    <circle id="Эллипс_395" data-name="Эллипс 395" cx="30" cy="30" r="30" transform="translate(1620 4707)" fill="url(#linear-gradient)"/>
+    <g id="Сгруппировать_11120" data-name="Сгруппировать 11120" transform="translate(-1021.965 6178.488) rotate(-90)">
+      <path id="Контур_93" data-name="Контур 93" d="M-509.05,8586.184l12.653,10.467-12.653,10.465" transform="translate(1944.381 -5924.694)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3"/>
+    </g>
+  </g>
+</svg>

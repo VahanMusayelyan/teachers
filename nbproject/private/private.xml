@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/OpenServer/domains/dasaxos/resources/views/layout.blade.php</file>
+            <file>file:/C:/OpenServer/domains/dasaxos/resources/views/auth/register.blade.php</file>
+            <file>file:/C:/OpenServer/domains/dasaxos/.env</file>
+            <file>file:/C:/OpenServer/domains/dasaxos/routes/web.php</file>
+            <file>file:/C:/OpenServer/domains/dasaxos/app/User.php</file>
+            <file>file:/C:/OpenServer/domains/dasaxos/public/css/style_an.css</file>
+            <file>file:/C:/OpenServer/domains/dasaxos/app/Http/Controllers/MenuController.php</file>
+            <file>file:/C:/OpenServer/domains/dasaxos/app/Http/Controllers/Auth/RegisterController.php</file>
+            <file>file:/C:/OpenServer/domains/dasaxos/app/Certificate.php</file>
+            <file>file:/C:/OpenServer/domains/dasaxos/resources/views/auth/login.blade.php</file>
+            <file>file:/C:/OpenServer/domains/dasaxos/public/js/js.js</file>
+            <file>file:/C:/OpenServer/domains/dasaxos/app/Blog.php</file>
+            <file>file:/C:/OpenServer/domains/dasaxos/resources/views/welcome.blade.php</file>
+        </group>
+    </open-files>
+</project-private>

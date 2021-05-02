@@ -1,0 +1,18 @@
+<svg id="music_1_" data-name="music (1)" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40.912" height="40.912" viewBox="0 0 40.912 40.912">
+  <defs>
+    <linearGradient id="linear-gradient" x2="1.01" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fec606"/>
+      <stop offset="1" stop-color="#ff4a51"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_227" data-name="Group 227" transform="translate(14.383 9.749)">
+    <g id="Group_226" data-name="Group 226">
+      <path id="Path_194" data-name="Path 194" d="M206.053,122.245a1.2,1.2,0,0,0-1.049-.2l-16.94,4.794a1.2,1.2,0,0,0-.872,1.153v16.227a4.793,4.793,0,1,0,2.4,4.149V133.7l14.543-4.116v9.847a4.793,4.793,0,1,0,2.4,4.149V123.2A1.2,1.2,0,0,0,206.053,122.245Zm-21.259,28.524a2.4,2.4,0,1,1,2.4-2.4A2.4,2.4,0,0,1,184.794,150.768Zm16.94-4.794a2.4,2.4,0,1,1,2.4-2.4A2.4,2.4,0,0,1,201.734,145.974Zm2.4-18.885L189.589,131.2v-2.3l14.543-4.116Z" transform="translate(-180 -122.002)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+  <g id="Group_229" data-name="Group 229" transform="translate(0 0)">
+    <g id="Group_228" data-name="Group 228">
+      <path id="Path_195" data-name="Path 195" d="M16.726,8.509a24.081,24.081,0,0,1-5.956-5.9L9.388.534a1.2,1.2,0,0,0-2.2.665V19.983a4.793,4.793,0,1,0,2.4,4.149V5.066a28.307,28.307,0,0,0,5.719,5.376,3.6,3.6,0,0,1-2.123,6.5,1.2,1.2,0,1,0,0,2.4,5.993,5.993,0,0,0,3.54-10.829ZM4.8,26.529a2.4,2.4,0,1,1,2.4-2.4A2.4,2.4,0,0,1,4.8,26.529Z" transform="translate(-0.001 0)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>

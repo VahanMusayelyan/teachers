@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Сгруппировать_1264" data-name="Сгруппировать 1264" transform="translate(-7542.496 -3452.496)">
+    <g id="price-tag" transform="translate(7542.496 3452.496)">
+      <g id="Сгруппировать_1261" data-name="Сгруппировать 1261" transform="translate(0)">
+        <g id="Сгруппировать_1260" data-name="Сгруппировать 1260" transform="translate(0)">
+          <path id="Контур_3646" data-name="Контур 3646" d="M21.5,0H15.157a4.471,4.471,0,0,0-3.182,1.318L.853,12.44a2.914,2.914,0,0,0,0,4.12L7.44,23.147a2.914,2.914,0,0,0,4.12,0L22.682,12.025A4.47,4.47,0,0,0,24,8.843V2.5A2.5,2.5,0,0,0,21.5,0ZM23,8.843a3.476,3.476,0,0,1-1.024,2.474L10.853,22.44a1.961,1.961,0,0,1-2.705,0L1.56,15.852a1.913,1.913,0,0,1,0-2.7L12.682,2.025A3.479,3.479,0,0,1,15.157,1H21.5A1.5,1.5,0,0,1,23,2.5V8.843Z" transform="translate(0)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Сгруппировать_1263" data-name="Сгруппировать 1263" transform="translate(15.888 3.351)">
+        <g id="Сгруппировать_1262" data-name="Сгруппировать 1262">
+          <path id="Контур_3647" data-name="Контур 3647" d="M343.715,64a2.381,2.381,0,1,0,2.381,2.381A2.384,2.384,0,0,0,343.715,64Zm0,3.809a1.428,1.428,0,1,1,1.428-1.428A1.43,1.43,0,0,1,343.715,67.809Z" transform="translate(-341.334 -64)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+    <path id="Контур_3648" data-name="Контур 3648" d="M0,1.583,1.583,0,3.167,1.583" transform="translate(7551.085 3470.085) rotate(-135)" fill="none" stroke="#fff" stroke-linecap="square" stroke-width="1"/>
+    <path id="Контур_3651" data-name="Контур 3651" d="M0,1.583,1.583,0,3.167,1.583" transform="translate(7555.616 3461.137) rotate(45)" fill="none" stroke="#fff" stroke-linecap="square" stroke-width="1"/>
+    <path id="Контур_3650" data-name="Контур 3650" d="M0,5.155,2.577,0" transform="translate(7555.993 3466.583) rotate(135)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1"/>
+  </g>
+</svg>

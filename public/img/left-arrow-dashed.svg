@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="197.395" height="515.726" viewBox="0 0 197.395 515.726">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fec407"/>
+      <stop offset="1" stop-color="#ffae8a"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_2601" data-name="Group 2601" transform="translate(-549.405 -1105.812)">
+    <path id="Polygon_1" data-name="Polygon 1" d="M15.428,4.287a3,3,0,0,1,5.145,0l12.7,21.169A3,3,0,0,1,30.7,30H5.3a3,3,0,0,1-2.572-4.543Z" transform="matrix(0.259, 0.966, -0.966, 0.259, 658.186, 1579)" fill="url(#linear-gradient)"/>
+    <path id="Path_181" data-name="Path 181" d="M5541.4,815.051c-14.569,36.171,74.037,61.005,0,92.857-1.986,3.677-63.884-12.044-66.042,23.629-1.073,17.729,11.565,44.13-4.641,61.723-16.119,17.5-51.525,25.78-59.239,45.423-23.648,60.226,41.531,74.438,59.239,68.816s39.567-27.351,31.938-62.638-91.587-38.542-119.166-6.178,17.028,83.836,67.857,118.608,22.361,138.284,22.361,138.284" transform="translate(-4825 290.948)" fill="none" stroke="#f3b800" stroke-width="1" stroke-dasharray="9"/>
+  </g>
+</svg>
